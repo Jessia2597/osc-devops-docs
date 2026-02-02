@@ -1,1 +1,0 @@
-# osc-devops-docs
